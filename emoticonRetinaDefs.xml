@@ -239,4 +239,6 @@
 	</emoticon>
 	<emoticon defaultKey="pepe" image="pepe@2x.png" text="Pepe" order="58">
 	</emoticon>
+	<emoticon defaultKey="trollface" image="trollface.png" text="TrollFace" order="59">
+	</emoticon>
 </emoticons>
