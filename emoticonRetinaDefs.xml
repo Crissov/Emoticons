@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emoticons>
+	<emoticon defaultKey=":)" image="smile@2x.png" text="Smile" order="1">
+		<alt>:-)</alt>
+		<alt>^_^</alt>
+	</emoticon>
+	<emoticon defaultKey=":(" image="sad@2x.png" text="Sad" order="2">
+		<alt>:-(</alt>
+	</emoticon>
+	<emoticon defaultKey=":D" image="grin@2x.png" text="Grin" order="3">
+		<alt>:-D</alt>
+	</emoticon>
+	<emoticon defaultKey=";)" image="wink@2x.png" text="Wink" order="4">
+		<alt>;-)</alt>
+	</emoticon>
+	<emoticon defaultKey=":o" image="bigsurprise@2x.png" text="Big surprise" order="5">
+		<alt>:O</alt>
+		<alt>:-o</alt>
+		<alt>:-O</alt>
+	</emoticon>
+	<emoticon defaultKey=":P" image="tongue@2x.png" text="Tongue" order="6">
+		<alt>:p</alt>
+		<alt>:-P</alt>
+		<alt>:-p</alt>
+	</emoticon>
+	<emoticon defaultKey="B)" image="cool@2x.png" text="Cool" order="7">
+		<alt>(cool)</alt>
+		<alt>(Cool)</alt>
+		<alt>(COOL)</alt>
+		<alt>B-)</alt>
+		<alt>8-)</alt>
+	</emoticon>
+	<emoticon defaultKey="&gt;:(" image="angry@2x.png" text="Angry" order="8">
+		<alt>(angry)</alt>
+		<alt>(Angry)</alt>
+		<alt>(ANGRY)</alt>
+		<alt>&gt;:-(</alt>
+	</emoticon>
+	<emoticon defaultKey=":s" image="undecided@2x.png" text="Undecided" order="9">
+		<alt>:S</alt>
+		<alt>:-s</alt>
+		<alt>:-S</alt>
+	</emoticon>
+	
+	<emoticon defaultKey=":x" image="secret@2x.png" text="Secret" order="10">
+		<alt>(secret)</alt>
+		<alt>(Secret)</alt>
+		<alt>(SECRET)</alt>
+		<alt>:X</alt>
+		<alt>:-x</alt>
+		<alt>:-X</alt>
+	</emoticon>
+	<emoticon defaultKey=":*" image="kiss@2x.png" text="Kiss" order="11">
+		<alt>(kiss)</alt>
+		<alt>(Kiss)</alt>
+		<alt>(KISS)</alt>
+		<alt>:-*</alt>
+	</emoticon>
+	<emoticon defaultKey="0:)" image="angel@2x.png" text="Angel" order="12">
+		<alt>(angel)</alt>
+		<alt>(Angel)</alt>
+		<alt>(ANGEL)</alt>
+		<alt>0:-)</alt>
+		<alt>o:-)</alt>
+		<alt>O:-)</alt>
+		<alt>o:)</alt>
+		<alt>O:)</alt>
+	</emoticon>
+	<emoticon defaultKey=":!" image="worried@2x.png" text="Worried" order="13">
+		<alt>(worried)</alt>
+		<alt>(Worried)</alt>
+		<alt>(WORRIED)</alt>
+		<alt>:-!</alt>
+	</emoticon>
+	<emoticon defaultKey=":[" image="blush@2x.png" text="Blush" order="14">
+		<alt>(blush)</alt>
+		<alt>(Blush)</alt>
+		<alt>(BLUSH)</alt>
+		<alt>:-[</alt>
+	</emoticon>
+	<emoticon defaultKey=":'(" image="crying@2x.png" text="Crying" order="15">
+		<alt>:'-(</alt>
+		<alt>T_T</alt>
+		<alt>T.T</alt>
+	</emoticon>
+	<emoticon defaultKey=":/" image="unimpressed@2x.png" text="Unimpressed" order="16">
+		<alt>:-/</alt>
+		<alt>:-\</alt>
+		<alt>:\</alt>
+		<alt>:-|</alt>
+		<alt>:|</alt>
+	</emoticon>
+	<emoticon defaultKey="XD" image="LOL@2x.png" text="LOL" order="17">
+		<alt>=D</alt>
+	</emoticon>
+	<emoticon defaultKey="(*_*)" image="love-at-first-sight@2x.png" text="Love at first sight" order="18">
+		<alt>*IN LOVE*</alt>
+	</emoticon>
+	<emoticon defaultKey=":-B" image="nerd@2x.png" text="Nerd" order="19">
+		<alt>B-|</alt>
+		<alt>8-B</alt>
+		<alt>*8-|</alt>
+		<alt>(nerd)</alt>
+		<alt>(Nerd)</alt>
+		<alt>(NERD)</alt>
+	</emoticon>
+	<emoticon defaultKey="{:o" image="surprised@2x.png" text="Surprised" order="20">
+		<alt>(:-)</alt>
+	</emoticon>
+	<emoticon defaultKey=":-{" image="blank@2x.png" text="Blank" order="21">
+	    <alt>:{</alt>
+	</emoticon>
+	<emoticon defaultKey="=.=" image="closed_to_the_world@2x.png" text="Closed eyes" order="22">
+	</emoticon>
+	<emoticon defaultKey="X-0" image="crazy@2x.png" text="Crazy" order="23">
+	</emoticon>
+	<emoticon defaultKey=":'-)" image="crying-laugh@2x.png" text="Tears of joy" order="24">
+	</emoticon>
+	<emoticon defaultKey="*_*" image="dazed@2x.png" text="Dazed" order="25">
+	</emoticon>
+	<emoticon defaultKey="x_x" image="dead@2x.png" text="Dead" order="26">
+		<alt>X_X</alt>
+	</emoticon>
+	<emoticon defaultKey="|:-\" image="disaproval@2x.png" text="Disapproval" order="27">
+	    <alt>X:-/</alt>
+		<alt>|:|</alt>
+		<alt>(disapproval)</alt>
+	</emoticon>
+	<emoticon defaultKey="#)" image="sleep@2x.png" text="Sleep" order="28">
+		<alt>|-)</alt>
+		<alt>u_u</alt>
+	</emoticon>
+	<emoticon defaultKey="(&gt;.&lt;)" image="sleepy@2x.png" text="Sleepy" order="29">
+	<alt>(sleepy)</alt>
+	</emoticon>
+	<emoticon defaultKey=":-+" image="spechless@2x.png" text="Speechless" order="30">
+	    <alt>:-#</alt>
+	</emoticon>
+	<emoticon defaultKey=":-I" image="unemotional@2x.png" text="Thinking" order="31">
+	</emoticon>
+	<emoticon defaultKey=":-&lt;" image="upset@2x.png" text="Upset" order="32">
+		<alt>(upset)</alt>
+	</emoticon>
+	<emoticon defaultKey="(:-$" image="sick@2x.png" text="Sick" order="33">
+		<alt>+o(</alt>
+	</emoticon>
+	<emoticon defaultKey=":present" image="present@2x.png" text="Present" order="34">
+	</emoticon>
+	<emoticon defaultKey=":parcel" image="Parcel@2x.png" text="Parcel" order="35">
+	</emoticon>
+	<emoticon defaultKey="(^)" image="cake@2x.png" text="Cake" order="36">
+		<alt>(cake)</alt>
+		<alt>(Cake)</alt>
+		<alt>(CAKE)</alt>	
+	</emoticon>
+	<emoticon defaultKey="C(_)" image="coffee@2x.png" text="Coffee" order="37">
+		<alt>(coffee)</alt>
+		<alt>(Coffee)</alt>
+		<alt>(COFFEE)</alt>
+		<alt>c(_)</alt>
+	</emoticon>
+	<emoticon defaultKey="&lt;3" image="heart@2x.png" text="Heart" order="38">
+		<alt>(heart)</alt>
+	</emoticon>
+	<emoticon defaultKey="&lt;/3" image="brokenheart@2x.png" text="Broken Heart" order="39">
+		<alt>(brokenheart)</alt>
+	</emoticon>
+	<emoticon defaultKey="(*)" image="star@2x.png" text="Star" order="40">
+		<alt>(star)</alt>
+		<alt>(Star)</alt>
+		<alt>(STAR)</alt>
+	</emoticon>
+	<emoticon defaultKey="(y)" image="thumbs-up@2x.png" text="Thumbs Up" order="41">
+		<alt>(^-^)b</alt>
+		<alt>=b</alt>
+	</emoticon>
+	<emoticon defaultKey="(n)" image="thumbs-down@2x.png" text="Thumbs Down" order="42">
+		<alt>(^-^)p</alt>
+		<alt>=p</alt>
+	</emoticon>
+	<emoticon defaultKey="(point down)" image="point-down@2x.png" text="Point down" order="43">
+		<alt>(Point Down)</alt>
+		<alt>(pointdown)</alt>
+		<alt>(Pointdown)</alt>
+	</emoticon>
+	<emoticon defaultKey="(point left)" image="Point-left@2x.png" text="Point left" order="44">
+		<alt>(Point Left)</alt>
+		<alt>(pointleft)</alt>
+		<alt>(Pointleft)</alt>
+	</emoticon>
+	<emoticon defaultKey="(point up)" image="Point-up@2x.png" text="Point up" order="45">
+		<alt>(Point Up)</alt>
+		<alt>(pointup)</alt>
+		<alt>(Pointup)</alt>
+	</emoticon>
+	<emoticon defaultKey="(point right)" image="Point-right@2x.png" text="Point right" order="46">
+		<alt>(Point Right)</alt>
+		<alt>(pointright)</alt>
+		<alt>(Pointright)</alt>
+	</emoticon>
+	<emoticon defaultKey="(peace)" image="peace@2x.png" text="Peace" order="47">
+		<alt>(Peace)</alt>
+	</emoticon>
+	<emoticon defaultKey="(fist)" image="fist@2x.png" text="Fist" order="48">
+		<alt>(Fist)</alt>
+	</emoticon>
+	<emoticon defaultKey="(rockon)" image="rock-on@2x.png" text="Rock on" order="49">
+		<alt>(Rockon)</alt>
+		<alt>(RockOn)</alt>
+		<alt>(ROCKON)</alt>
+		<alt>\m/</alt>
+	</emoticon>
+	<emoticon defaultKey="(ok)" image="OK@2x.png" text="OK" order="50">
+		<alt>(OK)</alt>
+		<alt>(okay)</alt>
+		<alt>(a ok)</alt>
+	</emoticon>
+	<emoticon defaultKey="(egg)" image="egg@2x.png" order="51" text="egg">
+		<alt>(Egg)</alt>
+		<alt>(EGG)</alt>
+	</emoticon>
+	<emoticon defaultKey="(drink)" image="drink@2x.png" order="52" text="drink">
+		<alt>(Drink)</alt>
+		<alt>(DRINK)</alt>
+	</emoticon>
+	<emoticon defaultKey="(beer)" image="beer@2x.png" order="53" text="beer">	
+		<alt>(Beer)</alt>
+		<alt>(BEER)</alt>
+	</emoticon>
+	<emoticon defaultKey="(duck)" image="duck@2x.png" order="54" text="duck">
+		<alt>(Duck)</alt>
+		<alt>(DUCK)</alt>
+	</emoticon>
+	<emoticon defaultKey="(:kevin)" image="kevin@2x.png" order="55" text="Kevin">
+	</emoticon>
+	<emoticon defaultKey=":spockon" image="spockon@2x.png" order="56" text="Spock on">
+	</emoticon>
+	<emoticon defaultKey=":callme" image="callme@2x.png" order="57" text="callme" clickToCall="true">
+	</emoticon>
+	<emoticon defaultKey="pepe" image="pepe@2x.png" text="Pepe" order="58">
+	</emoticon>
+</emoticons>
