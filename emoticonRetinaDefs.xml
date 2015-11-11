@@ -241,4 +241,6 @@
 	</emoticon>
 	<emoticon defaultKey="trollface" image="trollface.png" text="TrollFace" order="59">
 	</emoticon>
+	<emoticon defaultKey="baphomet" image="baphomet.png" text="baphomet" order="60">
+	</emoticon>
 </emoticons>
