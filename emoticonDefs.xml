@@ -242,4 +242,6 @@
 	</emoticon>
 	<emoticon defaultKey="baphomet" image="baphomet.png" text="baphomet" order="60">
 	</emoticon>
+	<emoticon defaultKey="y u no" image="y-u-no.png" text="y u no!?" order="61">
+	</emoticon>
 </emoticons>
