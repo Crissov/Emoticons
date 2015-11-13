@@ -245,4 +245,6 @@
 	</emoticon>
 	<emoticon defaultKey="y u no" image="y-u-no.png" text="y u no!?" order="61">
 	</emoticon>
+	<emoticon defaultKey="ops problem" image="opsproblem.png" text="ops problem" order="62">
+	</emoticon>
 </emoticons>
