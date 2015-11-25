@@ -249,4 +249,6 @@
 	</emoticon>
 	<emoticon defaultKey="neat!" image="neat.png" text="NEAT!" order="63">
 	</emoticon>
+	<emoticon defaultKey="thoon" image="thoon.png" text="thoon..." order="64">
+	</emoticon>
 </emoticons>
